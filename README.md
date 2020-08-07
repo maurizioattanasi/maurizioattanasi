@@ -44,7 +44,7 @@
 
 ---
 
-[![Maurizio's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&)](https://github.com/maurizioattanasi/github-readme-stats)
+[![Maurizio's github stats](https://github-readme-stats.vercel.app/api?username=maurizioattanasi&show_icons=true&)](https://github.com/maurizioattanasi/github-readme-stats)
 
 
 [gmail]:mailto:maurizio.attanasi@gmail.com
