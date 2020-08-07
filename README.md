@@ -35,6 +35,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Core IoT Libraries on Friendly ELEC NanoPi M1 Plus](https://maurizioattanasi.blogspot.com/2020/04/net-core-iot-libraries-on-friendly-elec.html)
+- [Set Up .NET Core 3.1 ARM Development Toolchain with Visual Studio Code](https://maurizioattanasi.blogspot.com/2020/04/set-up-net-core-31-arm-development.html)
+- [Set Up C++ ARM Development Toolchain with Visual Studio Code](https://maurizioattanasi.blogspot.com/2020/03/set-up-c-arm-development-toolchain-with.html)
+- [Finding serial       port names of usb to serial converters on window machines](https://maurizioattanasi.blogspot.com/2019/08/finding-serial-port-names-of-usb-to.html)
+- [Building an HMI with electron.js (Part 4).md](https://maurizioattanasi.blogspot.com/2018/08/building-hmi-with-electronjs-part-4md.html)
 <!-- BLOG-POST-LIST:END -->
 
 [gmail]:mailto:maurizio.attanasi@gmail.com
