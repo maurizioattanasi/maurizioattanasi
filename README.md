@@ -28,9 +28,14 @@
 [<img align="left" alt="maurizioattanasi | Azure Pipelines" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.4.0/azurepipelines.svg" />][blogger]
 [<img align="left" alt="maurizioattanasi | Microsoft SQL Server" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.4.0/microsoftsqlserver.svg" />][blogger]
 [<img align="left" alt="maurizioattanasi | Terminal" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/terminal-2x.png" />][blogger]
-
-
+  
 <br />
+<br />
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [gmail]:mailto:maurizio.attanasi@gmail.com
 [linkedin]:https://www.linkedin.com/in/maurizioattanasi
