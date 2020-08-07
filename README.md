@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Everithing 😂
 - 💬 Ask me about.
 
-<hr />
+---
 
 ### How to reach me:
 
