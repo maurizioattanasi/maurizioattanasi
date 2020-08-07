@@ -42,6 +42,11 @@
 - [Building an HMI with electron.js (Part 4).md](https://maurizioattanasi.blogspot.com/2018/08/building-hmi-with-electronjs-part-4md.html)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Maurizio's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&)](https://github.com/maurizioattanasi/github-readme-stats)
+
+
 [gmail]:mailto:maurizio.attanasi@gmail.com
 [linkedin]:https://www.linkedin.com/in/maurizioattanasi
 [twitter]:https://twitter.com/mau970
