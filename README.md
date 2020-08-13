@@ -1,8 +1,10 @@
 ### Hi there, I'm Maurizio 👋
 
 - 🔭 I’m currently working on:
-  -  .NET Core Microservices Design and Development
-- 🌱 I’m currently learning Everithing 😂
+  - ⚙️ .NET Core Microservices Design and Development
+  - 🛒 Amazon Marketplsce Web Services Integration
+  - 🚀 Some fun IoT projects
+- 🌱 I’m currently learning Everithing I can 😂
 - 💬 Ask me about.
 
 ---
