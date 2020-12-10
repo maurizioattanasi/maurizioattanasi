@@ -37,11 +37,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add centralized logging to a .NET Core Microservice (The ELK way)](http://maurizioattanasi.it/2020/12/10/dotnet-core-microservice-centralized-logging.html)
 - [Jekyll Contact Form with a .NET Core Microservice](http://maurizioattanasi.it/2020/11/13/jekyll-contact-form-with-dot-net-core-microservice.html)
 - [Bye bye Blogger, Welcome GitHub Pages](http://maurizioattanasi.it/2020/09/30/bye-bye-blogger-welcome-github-pages.html)
 - [.NET Core IoT Libraries on Friendly ELEC NanoPi M1 Plus](http://maurizioattanasi.it/2020/04/14/net-core-iot-libraries-on-friendly-elec.html)
 - [Set Up .NET Core 3.1 ARM Development Toolchain with Visual Studio Code](http://maurizioattanasi.it/2020/04/05/set-up-net-core-31-arm-development.html)
-- [Set Up C++ ARM Development Toolchain with Visual Studio Code](http://maurizioattanasi.it/2020/03/03/set-up-c-arm-development-toolchain-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
