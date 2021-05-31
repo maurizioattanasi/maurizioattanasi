@@ -37,11 +37,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Repository Pattern, Unit Of Work with EF Core and Dapper](http://maurizioattanasi.it/2021/05/31/repository-pattern.html)
 - [Local backup of an Azure SQL Server database](http://maurizioattanasi.it/2021/01/10/azure-sql-backup-on-local-machine.html)
 - [Add centralized logging to a .NET Core Microservice (The ELK way)](http://maurizioattanasi.it/2020/12/10/dotnet-core-microservice-centralized-logging.html)
 - [Jekyll Contact Form with a .NET Core Microservice](http://maurizioattanasi.it/2020/11/13/jekyll-contact-form-with-dot-net-core-microservice.html)
 - [Bye bye Blogger, Welcome GitHub Pages](http://maurizioattanasi.it/2020/09/30/bye-bye-blogger-welcome-github-pages.html)
-- [.NET Core IoT Libraries on Friendly ELEC NanoPi M1 Plus](http://maurizioattanasi.it/2020/04/14/net-core-iot-libraries-on-friendly-elec.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
