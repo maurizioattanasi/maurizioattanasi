@@ -1,6 +1,7 @@
 ### Hi there, I'm Maurizio 👋
 
 - 🔭 I’m currently working on:
+  -   
   - ⚙️ .NET Core Microservices Design and Development
   - :performing_arts: Akka.NET concurrent & distributed applications toolkit
   - 🚀 Some fun IoT projects
@@ -15,6 +16,7 @@
 [<img align="left" alt="maurizioattanasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="maurizioattanasi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/blogger.svg" />][blogger]
 [<img align="left" alt="maurizioattanasi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="maurizioattanasi | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord" />][discord]
 
 <br />
 
@@ -53,3 +55,4 @@
 [linkedin]:https://www.linkedin.com/in/maurizioattanasi
 [twitter]:https://twitter.com/mau970
 [blogger]:https://maurizioattanasi.blogspot.com/
+[discord]:maurizio.attanasi.1970
