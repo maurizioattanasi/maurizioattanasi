@@ -39,11 +39,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing the Repository Pattern with Id Generalization](http://maurizioattanasi.it/2024/04/25/repository-pattern-update.html)
 - [My ESP32 Playground](http://maurizioattanasi.it/2022/11/13/my-esp32-playground.html)
 - [Repository Pattern, Unit Of Work with EF Core and Dapper](http://maurizioattanasi.it/2021/05/31/repository-pattern.html)
 - [Local backup of an Azure SQL Server database](http://maurizioattanasi.it/2021/01/10/azure-sql-backup-on-local-machine.html)
 - [Add centralized logging to a .NET Core Microservice &lpar;The ELK way&rpar;](http://maurizioattanasi.it/2020/12/10/dotnet-core-microservice-centralized-logging.html)
-- [Jekyll Contact Form with a .NET Core Microservice](http://maurizioattanasi.it/2020/11/13/jekyll-contact-form-with-dot-net-core-microservice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
