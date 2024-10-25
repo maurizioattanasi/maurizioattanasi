@@ -39,11 +39,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Magic of Dev Containers in My Workflow](http://maurizioattanasi.it/2024/10/24/dev-containers.html)
 - [Domain Driven Design with .NET 8 - Episode 1 - Solution Anatomy](http://maurizioattanasi.it/2024/09/12/ddd-service-net-8.html)
 - [Enhancing the Repository Pattern with Id Generalization](http://maurizioattanasi.it/2024/04/25/repository-pattern-update.html)
 - [My ESP32 Playground](http://maurizioattanasi.it/2022/11/13/my-esp32-playground.html)
 - [Repository Pattern, Unit Of Work with EF Core and Dapper](http://maurizioattanasi.it/2021/05/31/repository-pattern.html)
-- [Local backup of an Azure SQL Server database](http://maurizioattanasi.it/2021/01/10/azure-sql-backup-on-local-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
