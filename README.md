@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
   -   
-  - ⚙️ .NET Core Microservices Design and Development
+  - ⚙️ .NET Core Services Design and Development
   - :performing_arts: Akka.NET concurrent & distributed applications toolkit
   - 🚀 Some fun IoT projects
 - 🌱 I’m currently learning Everithing I can 😂
